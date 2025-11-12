@@ -3,7 +3,7 @@ plugins {
     id("xyz.wagyourtail.unimined") version ("1.4.1")
 }
 
-group = "net.mehvajdjukaar"
+group = "net.mehvahdjukaar"
 version = "1.10"
 
 unimined.useGlobalCache = false
