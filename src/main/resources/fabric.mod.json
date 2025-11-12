@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "modelfix",
+  "version": "1.10",
+  "name": "Model Gap Fix",
+  "description": "Fixes those annoying gaps that appear in item models",
+  "authors": [
+    "Mehvahdjukaar", "awruff"
+  ],
+  "contact": {
+    "homepage": "https://discord.gg/gGuQ55PCRn"
+  },
+  "license": "GPL-3",
+  "environment": "client",
+  "mixins": [
+    "modelfix.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "1.8.9"
+  }
+}
